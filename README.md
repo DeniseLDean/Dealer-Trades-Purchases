@@ -1,2 +1,3 @@
 # Dealer-Trades-Purchases
 Auto Dealer Trades &amp; Purchases
+This is a program to keep track of dealer trades and purchases for a car dealership. The dealership trades vehicles with other dealerships. The trade may be a buy only, sell only, or both a buy and a sell. The Finance Manager initiates the trade with another dealer, and then enters the trade information into the system. The Accounting Department then uses this information to process the trade and accounting entries in the main software system used by the dealership. Accounting then makes and receives payments, sends and receives car titles to the other dealer.
